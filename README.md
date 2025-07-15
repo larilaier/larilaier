@@ -12,5 +12,5 @@ I'm a Software Engineer in Progress, studying **Software Engineering** at **PUCR
 
 ## Social Media
 
-- [LinkedIn](https://www.linkedin.com/in/larissa-franceschini-laier-933820110/) 
-- [Email](lari.laier@hotmail.com) 
+- LinkedIn: https://www.linkedin.com/in/larissa-franceschini-laier-933820110/
+- Email: lari.laier@hotmail.com
