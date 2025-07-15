@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there! 
 
-<!--
-**larilaier/larilaier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer in Progress, studying **Software Engineering** at **PUCRS**, passionate about technology, problem-solving, and building meaningful solutions.
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Java**
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **MySQL**
+
+## Social Media
+
+- [LinkedIn](https://www.linkedin.com/in/larissa-franceschini-laier-933820110/) 
+- [Email](lari.laier@hotmail.com) 
