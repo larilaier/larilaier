@@ -1,6 +1,6 @@
 # Hi there! 
 
-I'm a Software Engineer in Progress, studying **Software Engineering** at **PUCRS**, passionate about technology, problem-solving, and building meaningful solutions.
+I'm a Software Engineer in progress, studying **Software Engineering** at **PUCRS**, passionate about technology and problem-solving;
 
 ## Technologies
 
